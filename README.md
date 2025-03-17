@@ -20,7 +20,7 @@ Node.js, Express, TypeScript ve MongoDB kullanılarak geliştirilmiş bir REST A
 ### Adımlar
 
 1. Repoyu klonlayın:
-   git clone https://github.com/kullanici/perwatch-api.git
+   git clone https://github.com/samet-gecgel/perwatch-api.git
    cd perwatch-api
 
 2. Bağımlılıkları yükleyin:
